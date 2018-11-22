@@ -1,3 +1,1 @@
-print('hello word')
-print('hello Git')
-print("Hello World")
+{% include "./programs/while.py" %}
